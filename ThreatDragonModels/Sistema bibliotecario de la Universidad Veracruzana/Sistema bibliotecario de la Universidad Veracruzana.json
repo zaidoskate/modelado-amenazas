@@ -7,7 +7,11 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Zaid Alexis Vázquez Ramírez"
+      }
+    ],
     "diagrams": [],
     "diagramTop": 0,
     "reviewer": "Guillermo Humberto Vera Amaro",
