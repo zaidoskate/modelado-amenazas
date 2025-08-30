@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Sistema bibliotecario de la Universidad Veracruzana",
+    "owner": "EE Programación segura",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un sitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca (estudiantes y personal universitario). Como esta es la primera implementación del sitio web, la funcionalidad será limitada. Serán tres usuarios de la aplicación:\n1. Estudiantes\n2. Personal\n3. Bibliotecarios\n\nEl personal y los estudiantes podrán iniciar sesión y buscar libros, y los miembros del personal podrán solicitar libros. Los bibliotecarios podrán iniciar sesión, agregar libros, agregar usuarios y buscar libros.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Guillermo Humberto Vera Amaro",
+    "threatTop": 0
+  }
+}
